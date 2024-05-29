@@ -10,3 +10,17 @@ License: GNU General Public License v2 or later
 License URL: https://www.gnu.org/licenses/gpl-2.0.html
 */
 /* Placer votre CSS ci-dessous */
+
+:root {
+    --accent-color: #DC9F96;
+    --main-bg-color: #ECE2DA;
+    --menu-onclick-color: #C02E44;
+    --button-color: #E0B9B4;
+    --txt-bg-vert: #3B8E46;
+    --txt-rouge: #D2776A;
+}
+
+h1.entry-title,
+h2.entry-title {
+    display: none;
+    }
