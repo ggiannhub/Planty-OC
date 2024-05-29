@@ -24,3 +24,37 @@ h1.entry-title,
 h2.entry-title {
     display: none;
     }
+
+.hero {
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    margin-top: 0px;
+    padding-top: 0px;
+    border-radius: 0 0 5% 5%;
+    }
+
+h2 {
+    display: flex;
+    font-size: 38px;
+    font-weight: 800;
+    line-height: 45.6px;
+    text-wrap: balance;
+    color: var(--txt-bg-vert);
+}
+
+.image {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+}
+
+.primary-menu a {
+	color: black;
+	display: block;
+	line-height: 1.2;
+	text-decoration: none;
+	word-break: normal;
+	word-wrap: normal;
+}
