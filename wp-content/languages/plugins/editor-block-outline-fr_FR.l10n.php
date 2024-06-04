@@ -1,0 +1,2 @@
+<?php
+return ['x-generator'=>'GlotPress/4.0.1','translation-revision-date'=>'2020-12-29 14:12:28+0000','plural-forms'=>'nplurals=2; plural=n > 1;','project-id-version'=>'Plugins - Editor Block Outline - Stable (latest release)','language'=>'fr','messages'=>['Editor Block Outline'=>'Editor Block Outline','Add outline around Gutenberg blocks while editing'=>'Ajouter un contour autour des blocs Gutenberg pendant l’édition','Kalimah Apps'=>'Kalimah Apps']];
